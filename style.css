@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    padding-top: 300px;
+    padding-left: 700px;
+
+    
+} 
+.head{
+    font-size: 40px;
+
+}
+.text{
+    font-size: 25px;
+}
+.header{
+    background-image: url(banner.png);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-2{
+    background-color: rgba(219, 6, 56, 0.126);
+    display: flex;
+    align-items: center;
+    margin: 0 200px;  
+    padding: 80px;
+}
+.banner-2:hover{
+    background-color: aquamarine;
+
+}
+
+.bullet-part{
+    display: flex;
+    
+
+}
+.skill-head{
+    text-align: center;
+    margin-bottom: 60px;
+    padding-top: 150px;
+}
+
+.skills-container{
+    display: flex;
+    justify-content: space-between;
+    
+    padding-bottom:200px;
+    gap: 50px;
+}
+.bottom{
+    background-color: rgb(201, 241, 187);
+    
+    padding: 100px ;
+
+    display: flex;
+    justify-content: space-between;
+   gap: 500px;
+}
+.bottom:hover{
+    background-color: aquamarine;
+}
+.btn{
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 20px;
+    background-color: rgb(248, 244, 244);
+    color: rgb(184, 86, 12);
+}
+.tittle{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: blue;
+}
+.email{
+    font-size: 25px;
+}
+.second-section{
+    background-color: white;
+    margin: 0 200px;
+}
+
+.grad{
+    margin: 0 200px;
+}
+.g-section{
+
+    background-image: url(watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+   margin-left: 200px;
+   margin-right: 200px;
+   border-radius: 10px;
+   margin-bottom: 100px;
+}
+.gsection{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.footer-h-text{
+    font-size: 30px;
+}
